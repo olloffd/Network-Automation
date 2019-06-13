@@ -1,3 +1,0 @@
-Hostname,Protocol,Username,Password,Enable
-192.168.1,1,ssh,cisco,password,cisco
-192.168.1,2,ssh,cisco,password,cisco
